@@ -1,9 +1,9 @@
 #  Prova 01 – Árvores de Pesquisa (BST e Árvore B)
-Disciplina: Algoritmos e Estruturas de Dados II
-Instituição: CEFET-MG
-Aluno: Pedro Henrique Oliveira Santos
-Projeto: Prova 01 – Árvores de Pesquisa (BST e Árvore B)
-Data: Outubro de 2025
+**Disciplina:** Algoritmos e Estruturas de Dados II
+**Instituição:** CEFET-MG
+**Aluno:** Pedro Henrique Oliveira Santos
+**Projeto:** Prova 01 – Árvores de Pesquisa (BST e Árvore B)
+**Data:** Outubro de 2025
 
 Este projeto implementa e analisa experimentalmente o desempenho de duas estruturas clássicas de dados:
 - **BST (Binary Search Tree)** — Árvore Binária de Pesquisa;
@@ -14,7 +14,7 @@ O objetivo é comparar o número médio de comparações durante as operações 
 ---
 
 ##  Estrutura do projeto
-
+``` Arvore de arquivos
 prova-01/
 ├── src/
 │ ├── bst.py # Implementação da árvore binária de pesquisa
