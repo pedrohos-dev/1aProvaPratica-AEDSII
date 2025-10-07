@@ -1,4 +1,5 @@
 #  Prova 01 – Árvores de Pesquisa (BST e Árvore B)
+
 **Disciplina:** Algoritmos e Estruturas de Dados II
 **Instituição:** CEFET-MG
 **Aluno:** Pedro Henrique Oliveira Santos
@@ -14,6 +15,7 @@ O objetivo é comparar o número médio de comparações durante as operações 
 ---
 
 ##  Estrutura do projeto
+
 ``` Arvore de arquivos
 prova-01/
 ├── src/
@@ -49,6 +51,7 @@ prova-01/
 ##  Instalação
 
 # Versão do Python
+
    Python 3.10+
 
 ```bash
