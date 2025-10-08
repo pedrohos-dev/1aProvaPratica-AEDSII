@@ -10,7 +10,7 @@ import random
 import csv
 import time
 from tqdm import tqdm
-from bst import BinarySearchTree      # === DESCOMENTAR DEPOIS ===
+from bst import BinarySearchTree      
 from btree import BTree
 
 # =============================================================
